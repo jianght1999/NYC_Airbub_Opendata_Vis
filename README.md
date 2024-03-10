@@ -23,6 +23,7 @@ Is there any noticeable difference of traffic among different areas and what cou
 
 
 ***1.average price in every neighborhood group**
+
 Firstly, I'd like to show the average price of the airbub in every neighborhood group.
 
 
