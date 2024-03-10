@@ -19,3 +19,11 @@ What can we learn about different hosts and areas?
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+
+
+
+***1.average price in every neighborhood group**
+Firstly, I'd like to show the average price of the airbub in every neighborhood group.
+
+
+![aveprive](https://github.com/jianght1999/NYC_Airbub_Opendata_Vis/assets/80138413/76c6dca2-0aba-4bd2-913f-14c4ece39575)
