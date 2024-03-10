@@ -24,16 +24,7 @@ Is there any noticeable difference of traffic among different areas and what cou
 **description of the data**
 
 
-           latitude     longitude         price  minimum_nights
-count  48895.000000  48895.000000  48895.000000    48895.000000
-mean      40.728949    -73.952170    152.720687        7.029962
-std        0.054530      0.046157    240.154170       20.510550
-min       40.499790    -74.244420      0.000000        1.000000
-25%       40.690100    -73.983070     69.000000        1.000000
-50%       40.723070    -73.955680    106.000000        3.000000
-75%       40.763115    -73.936275    175.000000        5.000000
-max       40.913060    -73.712990  10000.000000     1250.000000
-
+![1710081852492](https://github.com/jianght1999/NYC_Airbub_Opendata_Vis/assets/80138413/edcba3ab-c639-4bc7-a39b-0949415fe405)
 
 
 **1.average price in every neighborhood group**
